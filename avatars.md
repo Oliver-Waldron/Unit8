@@ -5,7 +5,7 @@ permalink: /avatars/
 ---
 <center>
 <h1>Avatars</h1>
-Here are afew different profile I have created to see who ada should aim for...
+Here are afew different profile I have created to see who Ada should aim for to attend...
 <p></p>
 <p></p>
 </center>
