@@ -13,7 +13,6 @@ Here are afew different profile I have created to see who ada should aim for...
 <center>
 <h2>Leon</h2>
 <img src="/assets/Leon.png" class="img-responsive" alt="">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/f2k7Rwc"><a href="//imgur.com/f2k7Rwc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <p></p>
 Age: 16
 <p></p>
